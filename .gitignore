@@ -1,0 +1,30 @@
+```
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+
+# Large dataset folders
+Leopard.v1-leopard.yolov8/
+Tegers_New.v1i.yolov8/
+wild boar test 2.v1i.yolov8/
+WildAnimalIntrusioninUrbanAreas2.v3i.yolov8/
+Wildlife detection.v3i.yolov8/
+elephants-wz5qt/
+unified_dataset/
+
+# Runs and model weights (too large)
+runs/
+comparison/
+
+# Downloaded model weights
+yolov5su.pt
+yolov8m.pt
+yolov8n.pt
+yolov9s.pt
+yolov10s.pt
+yolo26n.pt
+
+# Misc
+detections/
+*.pt
