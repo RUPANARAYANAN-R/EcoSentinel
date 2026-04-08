@@ -266,7 +266,7 @@ If you use EcoSentinel in your research, please cite:
 | Pradeesh M | Model Training | Nandha Engineering College, Erode |
 | Roshan D | Inference System | Nandha Engineering College, Erode |
 | Mr. R. Manikandan, M.Tech. | Project Mentor | Nandha Engineering College, Erode |
-| Ms. N. Bhuvaneswari, M.E. | Project Mentor | Nandha Engineering College, Erode |
+| Dr. T. Rajasekaran, Prof. & Head / CSE | Project Mentor | Nandha Engineering College, Erode |
 
 ---
 
